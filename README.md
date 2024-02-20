@@ -1,3 +1,4 @@
+"REMOTE"
 # merge-conflits
 Quête merge and conflits
 Pour changer de carrière ou monter en compétences,
